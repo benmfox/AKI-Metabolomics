@@ -6,3 +6,4 @@ This repo contains the tools used for my masters project and other metabolomics 
 2. ANOVA and post hoc tests, multiple testing adjustments
 3. Principal component analysis
 4. Partial least squares discrimnant analysis
+5. Pathway Analysis
